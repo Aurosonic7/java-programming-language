@@ -11,7 +11,7 @@
     <ul>
       <li> <b>Data Structure</b>
         <ul>
-          <li>Stack</li>
+          <li>Array List</li>
           <li>Stack</li>
           <li>Queue</li>
           <li>Tree Map</li>
